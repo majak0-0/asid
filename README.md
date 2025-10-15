@@ -1,2 +1,3 @@
 # asid
-algorytmy :))
+Maja Kołakowska 287360
+
